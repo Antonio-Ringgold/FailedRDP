@@ -27,7 +27,11 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <img src="https://i.imgur.com/p903U9q.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
+<h2>The same custom logs but displayed in Azure with a quick script to organize the data output.</h2>
+
+<img src="https://i.imgur.com/LNcKIfz.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+
 <h2>World map of RDP attacks after 24 hours</h2>
 
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/q6mYNZO.png" height="100%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
